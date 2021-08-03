@@ -1,0 +1,33 @@
+{
+  "config": {
+    "branch": "main",
+    "cname": "",
+    "domain": "https://zsc-buaa.github.io",
+    "email": "zscbuaa@buaa.edu.cn",
+    "password": "",
+    "platform": "github",
+    "port": "22",
+    "privateKey": "",
+    "remotePath": "",
+    "repository": "zsc-BUAA.github.io",
+    "server": "",
+    "token": "zscbuaa15",
+    "tokenUsername": "",
+    "username": "zsc-BUAA"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
