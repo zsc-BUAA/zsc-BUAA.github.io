@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zsc-buaa.github.io</id>
     <title>zsc的小站</title>
-    <updated>2021-08-04T14:41:53.414Z</updated>
+    <updated>2021-08-05T08:16:18.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zsc-buaa.github.io"/>
     <link rel="self" href="https://zsc-buaa.github.io/atom.xml"/>
@@ -10,16 +10,6 @@
     <logo>https://zsc-buaa.github.io/images/avatar.png</logo>
     <icon>https://zsc-buaa.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, zsc的小站</rights>
-    <entry>
-        <title type="html"><![CDATA[公式测试]]></title>
-        <id>https://zsc-buaa.github.io/post/gong-shi-ce-shi/</id>
-        <link href="https://zsc-buaa.github.io/post/gong-shi-ce-shi/">
-        </link>
-        <updated>2021-08-04T01:14:20.000Z</updated>
-        <content type="html"><![CDATA[<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>α</mi><mo>×</mo><mi>β</mi></mrow><annotation encoding="application/x-tex">\alpha \times \beta 
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord mathdefault" style="margin-right:0.0037em;">α</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.05278em;">β</span></span></span></span></span></p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[跑步]]></title>
         <id>https://zsc-buaa.github.io/post/pao-bu/</id>
